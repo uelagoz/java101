@@ -16,6 +16,6 @@ public class Main {
 
         u = (a + b + c) / 2;
         area = Math.sqrt(u * (u - a) * (u - b) * (u - c));
-        System.out.println(area);
+        System.out.println("Üçgenin alanı: " + area);
     }
 }
