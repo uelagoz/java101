@@ -9,19 +9,19 @@ public class Main {
         Scanner pearScanner = new Scanner(System.in);
         pearKg = pearScanner.nextDouble();
 
-        System.out.println("Kaç kilo Armut aldığınızı giriniz: ");
+        System.out.println("Kaç kilo Elma aldığınızı giriniz: ");
         Scanner appleScanner = new Scanner(System.in);
         appleKg = appleScanner.nextDouble();
 
-        System.out.println("Kaç kilo Armut aldığınızı giriniz: ");
+        System.out.println("Kaç kilo Domates aldığınızı giriniz: ");
         Scanner tomatoScanner = new Scanner(System.in);
         tomatoKg = tomatoScanner.nextDouble();
 
-        System.out.println("Kaç kilo Armut aldığınızı giriniz: ");
+        System.out.println("Kaç kilo Muz aldığınızı giriniz: ");
         Scanner bananaScanner = new Scanner(System.in);
         bananaKg = bananaScanner.nextDouble();
 
-        System.out.println("Kaç kilo Armut aldığınızı giriniz: ");
+        System.out.println("Kaç kilo Patlıcan aldığınızı giriniz: ");
         Scanner eggplantScanner = new Scanner(System.in);
         eggplantKg = eggplantScanner.nextDouble();
 
