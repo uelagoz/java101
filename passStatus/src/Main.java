@@ -44,8 +44,8 @@ public class Main {
         int average = (totalGrade / totalLesson);
         System.out.println("Not ortalamanız: " + average);
 
-        String durum = (average >= 55) ? "Sınıfı Geçti" : "Sınıfta Kaldı";
-        System.out.println(durum);
+        String status = (average >= 55) ? "Sınıfı Geçti" : "Sınıfta Kaldı";
+        System.out.println(status);
 
     }
 }
