@@ -2,17 +2,18 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/areaOfCircle/areaOfCircle.iml" filepath="$PROJECT_DIR$/areaOfCircle/areaOfCircle.iml" />
-      <module fileurl="file://$PROJECT_DIR$/areaOfTriangle/areaOfTriangle.iml" filepath="$PROJECT_DIR$/areaOfTriangle/areaOfTriangle.iml" />
-      <module fileurl="file://$PROJECT_DIR$/bodyMassIndex/bodyMassIndex.iml" filepath="$PROJECT_DIR$/bodyMassIndex/bodyMassIndex.iml" />
-      <module fileurl="file://$PROJECT_DIR$/calculator/calculator.iml" filepath="$PROJECT_DIR$/calculator/calculator.iml" />
-      <module fileurl="file://$PROJECT_DIR$/gpaCalculator/gpaCalculator.iml" filepath="$PROJECT_DIR$/gpaCalculator/gpaCalculator.iml" />
-      <module fileurl="file://$PROJECT_DIR$/greenGrocery/greenGrocery.iml" filepath="$PROJECT_DIR$/greenGrocery/greenGrocery.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ideTest/ideTest.iml" filepath="$PROJECT_DIR$/ideTest/ideTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AreaOfCircle/AreaOfCircle.iml" filepath="$PROJECT_DIR$/AreaOfCircle/AreaOfCircle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AreaOfTriangle/AreaOfTriangle.iml" filepath="$PROJECT_DIR$/AreaOfTriangle/AreaOfTriangle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BodyMassIndex/BodyMassIndex.iml" filepath="$PROJECT_DIR$/BodyMassIndex/BodyMassIndex.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Calculator/Calculator.iml" filepath="$PROJECT_DIR$/Calculator/Calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GpaCalculator/GpaCalculator.iml" filepath="$PROJECT_DIR$/GpaCalculator/GpaCalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GreenGrocery/GreenGrocery.iml" filepath="$PROJECT_DIR$/GreenGrocery/GreenGrocery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IdeTest/IdeTest.iml" filepath="$PROJECT_DIR$/IdeTest/IdeTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PassStatus/PassStatus.iml" filepath="$PROJECT_DIR$/PassStatus/PassStatus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PasswordCheck/PasswordCheck.iml" filepath="$PROJECT_DIR$/PasswordCheck/PasswordCheck.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TaxCalculator/TaxCalculator.iml" filepath="$PROJECT_DIR$/TaxCalculator/TaxCalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Taximeter/Taximeter.iml" filepath="$PROJECT_DIR$/Taximeter/Taximeter.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/java101.iml" filepath="$PROJECT_DIR$/.idea/java101.iml" />
-      <module fileurl="file://$PROJECT_DIR$/passwordCheck/passwordCheck.iml" filepath="$PROJECT_DIR$/passwordCheck/passwordCheck.iml" />
-      <module fileurl="file://$PROJECT_DIR$/taxCalculator/taxCalculator.iml" filepath="$PROJECT_DIR$/taxCalculator/taxCalculator.iml" />
-      <module fileurl="file://$PROJECT_DIR$/taximeter/taximeter.iml" filepath="$PROJECT_DIR$/taximeter/taximeter.iml" />
     </modules>
   </component>
 </project>
