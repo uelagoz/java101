@@ -2,9 +2,15 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/helloWorld/helloWorld.iml" filepath="$PROJECT_DIR$/helloWorld/helloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/areaOfCircle/areaOfCircle.iml" filepath="$PROJECT_DIR$/areaOfCircle/areaOfCircle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/areaOfTriangle/areaOfTriangle.iml" filepath="$PROJECT_DIR$/areaOfTriangle/areaOfTriangle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bodyMassIndex/bodyMassIndex.iml" filepath="$PROJECT_DIR$/bodyMassIndex/bodyMassIndex.iml" />
+      <module fileurl="file://$PROJECT_DIR$/calculator/calculator.iml" filepath="$PROJECT_DIR$/calculator/calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gpaCalculator/gpaCalculator.iml" filepath="$PROJECT_DIR$/gpaCalculator/gpaCalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/greenGrocery/greenGrocery.iml" filepath="$PROJECT_DIR$/greenGrocery/greenGrocery.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/java101.iml" filepath="$PROJECT_DIR$/.idea/java101.iml" />
-      <module fileurl="file://$PROJECT_DIR$/primeNumber/primeNumber.iml" filepath="$PROJECT_DIR$/primeNumber/primeNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/taxCalculator/taxCalculator.iml" filepath="$PROJECT_DIR$/taxCalculator/taxCalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/taximeter/taximeter.iml" filepath="$PROJECT_DIR$/taximeter/taximeter.iml" />
     </modules>
   </component>
 </project>
