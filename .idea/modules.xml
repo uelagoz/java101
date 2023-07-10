@@ -8,7 +8,9 @@
       <module fileurl="file://$PROJECT_DIR$/calculator/calculator.iml" filepath="$PROJECT_DIR$/calculator/calculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/gpaCalculator/gpaCalculator.iml" filepath="$PROJECT_DIR$/gpaCalculator/gpaCalculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/greenGrocery/greenGrocery.iml" filepath="$PROJECT_DIR$/greenGrocery/greenGrocery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ideTest/ideTest.iml" filepath="$PROJECT_DIR$/ideTest/ideTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/java101.iml" filepath="$PROJECT_DIR$/.idea/java101.iml" />
+      <module fileurl="file://$PROJECT_DIR$/passwordCheck/passwordCheck.iml" filepath="$PROJECT_DIR$/passwordCheck/passwordCheck.iml" />
       <module fileurl="file://$PROJECT_DIR$/taxCalculator/taxCalculator.iml" filepath="$PROJECT_DIR$/taxCalculator/taxCalculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/taximeter/taximeter.iml" filepath="$PROJECT_DIR$/taximeter/taximeter.iml" />
     </modules>
