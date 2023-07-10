@@ -2,11 +2,11 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
+        double taxAmount, total;
+        Scanner scanner = new Scanner(System.in);
 
         System.out.println("Lütfen KDV'siz fiyatı giriniz: ");
-        Scanner scanner = new Scanner(System.in);
         int input = scanner.nextInt();
-        double taxAmount, total;
 
         if ( input <1000){
             taxAmount = input * 0.18;
