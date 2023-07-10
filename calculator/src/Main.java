@@ -3,10 +3,10 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
         double number1, number2;
+        Scanner scanner = new Scanner(System.in);
 
 
         System.out.println("Lütfen ilk sayıyı giriniz: ");
-        Scanner scanner = new Scanner(System.in);
         number1 = scanner.nextDouble();
 
         System.out.println("Lütfen ikinci sayıyı giriniz: ");
@@ -28,5 +28,6 @@ public class Main {
             }
             default -> System.out.println("Hatalı giriş yaptınız.");
         }
+
     }
 }
