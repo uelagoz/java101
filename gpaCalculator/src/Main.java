@@ -2,28 +2,28 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-        int matematik, fizik, kimya, turkce, tarih, muzik;
+        int mathematic, physic, chemistry, turkish, history, music;
         Scanner input = new Scanner(System.in);
 
         System.out.println("Matematik notunuzu giriniz: ");
-        matematik = input.nextInt();
+        mathematic = input.nextInt();
 
         System.out.println("Fizik notunuzu giriniz: ");
-        fizik = input.nextInt();
+        physic = input.nextInt();
 
         System.out.println("Kimya notunuzu giriniz: ");
-        kimya = input.nextInt();
+        chemistry = input.nextInt();
 
         System.out.println("Türkçe notunuzu giriniz: ");
-        turkce = input.nextInt();
+        turkish = input.nextInt();
 
         System.out.println("Tarih notunuzu giriniz: ");
-        tarih = input.nextInt();
+        history = input.nextInt();
 
         System.out.println("Müzik notunuzu giriniz: ");
-        muzik = input.nextInt();
+        music = input.nextInt();
 
-        int toplam = (matematik + fizik + kimya + turkce + tarih + muzik);
+        int toplam = (mathematic + physic + chemistry + turkish + history + music);
         double ortalama = (toplam / 6.0);
         System.out.println("Not ortalamanız: " + ortalama);
 
