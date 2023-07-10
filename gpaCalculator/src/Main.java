@@ -23,12 +23,12 @@ public class Main {
         System.out.println("Müzik notunuzu giriniz: ");
         music = input.nextInt();
 
-        int toplam = (mathematic + physic + chemistry + turkish + history + music);
-        double ortalama = (toplam / 6.0);
-        System.out.println("Not ortalamanız: " + ortalama);
+        int total = (mathematic + physic + chemistry + turkish + history + music);
+        double average = (total / 6.0);
+        System.out.println("Not ortalamanız: " + average);
 
-        String durum = (ortalama > 60) ? "Sınıfı Geçti" : "Sınıfta Kaldı";
-        System.out.println(durum);
+        String status = (average > 60) ? "Sınıfı Geçti" : "Sınıfta Kaldı";
+        System.out.println(status);
 
     }
 }
