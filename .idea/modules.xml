@@ -13,6 +13,7 @@
       <module fileurl="file://$PROJECT_DIR$/PasswordCheck/PasswordCheck.iml" filepath="$PROJECT_DIR$/PasswordCheck/PasswordCheck.iml" />
       <module fileurl="file://$PROJECT_DIR$/TaxCalculator/TaxCalculator.iml" filepath="$PROJECT_DIR$/TaxCalculator/TaxCalculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/Taximeter/Taximeter.iml" filepath="$PROJECT_DIR$/Taximeter/Taximeter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TemperatureEvent/TemperatureEvent.iml" filepath="$PROJECT_DIR$/TemperatureEvent/TemperatureEvent.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/java101.iml" filepath="$PROJECT_DIR$/.idea/java101.iml" />
     </modules>
   </component>
