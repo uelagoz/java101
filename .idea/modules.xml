@@ -11,6 +11,7 @@
       <module fileurl="file://$PROJECT_DIR$/IdeTest/IdeTest.iml" filepath="$PROJECT_DIR$/IdeTest/IdeTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/PassStatus/PassStatus.iml" filepath="$PROJECT_DIR$/PassStatus/PassStatus.iml" />
       <module fileurl="file://$PROJECT_DIR$/PasswordCheck/PasswordCheck.iml" filepath="$PROJECT_DIR$/PasswordCheck/PasswordCheck.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SortingNumbers/SortingNumbers.iml" filepath="$PROJECT_DIR$/SortingNumbers/SortingNumbers.iml" />
       <module fileurl="file://$PROJECT_DIR$/TaxCalculator/TaxCalculator.iml" filepath="$PROJECT_DIR$/TaxCalculator/TaxCalculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/Taximeter/Taximeter.iml" filepath="$PROJECT_DIR$/Taximeter/Taximeter.iml" />
       <module fileurl="file://$PROJECT_DIR$/TemperatureEvent/TemperatureEvent.iml" filepath="$PROJECT_DIR$/TemperatureEvent/TemperatureEvent.iml" />
