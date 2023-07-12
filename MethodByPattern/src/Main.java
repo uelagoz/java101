@@ -12,12 +12,12 @@ public class Main {
     }
 
     public static void recursive(int input) {
-        System.out.println(input);
+        System.out.print(input + " ");
 
         if (input <= 0) {
             return;
         }
         recursive(input - 5);
-        System.out.println(input);
+        System.out.print(input + " ");
     }
 }
