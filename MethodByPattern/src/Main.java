@@ -5,7 +5,7 @@ public class Main {
         int input;
         Scanner scanner = new Scanner(System.in);
 
-        System.out.println("Bir sayı giriniz: ");
+        System.out.print("Bir sayı giriniz: ");
         input = scanner.nextInt();
         recursive(input);
 
