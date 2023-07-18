@@ -1,16 +1,16 @@
 public class Main {
     public static void main(String[] args) {
 
-        double[] numbers = {1, 2, 3, 4, 5};
+        float[] numbers = {1, 2, 3, 4, 5};
 
-        System.out.println(numbers.length / harmonicMean(numbers));
+        System.out.println("Harmonik Ortalama: " + numbers.length / harmonicMean(numbers));
 
     }
 
-    public static double harmonicMean(double[] numbers) {
-        double sum = 0;
+    public static float harmonicMean(float[] numbers) {
+        float sum = 0;
 
-        for (double number : numbers) {
+        for (float number : numbers) {
             sum += 1 / number;
         }
 
