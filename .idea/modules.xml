@@ -4,17 +4,37 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AreaOfCircle/AreaOfCircle.iml" filepath="$PROJECT_DIR$/AreaOfCircle/AreaOfCircle.iml" />
       <module fileurl="file://$PROJECT_DIR$/AreaOfTriangle/AreaOfTriangle.iml" filepath="$PROJECT_DIR$/AreaOfTriangle/AreaOfTriangle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AverageCalculator/AverageCalculator.iml" filepath="$PROJECT_DIR$/AverageCalculator/AverageCalculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/BodyMassIndex/BodyMassIndex.iml" filepath="$PROJECT_DIR$/BodyMassIndex/BodyMassIndex.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BoxingGame/BoxingGame.iml" filepath="$PROJECT_DIR$/BoxingGame/BoxingGame.iml" />
       <module fileurl="file://$PROJECT_DIR$/Calculator/Calculator.iml" filepath="$PROJECT_DIR$/Calculator/Calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ChineseZodiacSign/ChineseZodiacSign.iml" filepath="$PROJECT_DIR$/ChineseZodiacSign/ChineseZodiacSign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EvenAndFourSum/EvenAndFourSum.iml" filepath="$PROJECT_DIR$/EvenAndFourSum/EvenAndFourSum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FactorialCombination/FactorialCombination.iml" filepath="$PROJECT_DIR$/FactorialCombination/FactorialCombination.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fibonacci/Fibonacci.iml" filepath="$PROJECT_DIR$/Fibonacci/Fibonacci.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FlightTicketPrice/FlightTicketPrice.iml" filepath="$PROJECT_DIR$/FlightTicketPrice/FlightTicketPrice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FourAndFivePower/FourAndFivePower.iml" filepath="$PROJECT_DIR$/FourAndFivePower/FourAndFivePower.iml" />
       <module fileurl="file://$PROJECT_DIR$/GpaCalculator/GpaCalculator.iml" filepath="$PROJECT_DIR$/GpaCalculator/GpaCalculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/GreenGrocery/GreenGrocery.iml" filepath="$PROJECT_DIR$/GreenGrocery/GreenGrocery.iml" />
-      <module fileurl="file://$PROJECT_DIR$/IdeTest/IdeTest.iml" filepath="$PROJECT_DIR$/IdeTest/IdeTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GuessingGame/GuessingGame.iml" filepath="$PROJECT_DIR$/GuessingGame/GuessingGame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Harmonic/Harmonic.iml" filepath="$PROJECT_DIR$/Harmonic/Harmonic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LeapYear/LeapYear.iml" filepath="$PROJECT_DIR$/LeapYear/LeapYear.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LetterB/LetterB.iml" filepath="$PROJECT_DIR$/LetterB/LetterB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MethodByPattern/MethodByPattern.iml" filepath="$PROJECT_DIR$/MethodByPattern/MethodByPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MinMaxArray/MinMaxArray.iml" filepath="$PROJECT_DIR$/MinMaxArray/MinMaxArray.iml" />
       <module fileurl="file://$PROJECT_DIR$/PassStatus/PassStatus.iml" filepath="$PROJECT_DIR$/PassStatus/PassStatus.iml" />
       <module fileurl="file://$PROJECT_DIR$/PasswordCheck/PasswordCheck.iml" filepath="$PROJECT_DIR$/PasswordCheck/PasswordCheck.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PerfectNumber/PerfectNumber.iml" filepath="$PROJECT_DIR$/PerfectNumber/PerfectNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PowerWithRecursive/PowerWithRecursive.iml" filepath="$PROJECT_DIR$/PowerWithRecursive/PowerWithRecursive.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RepeatedNumbers/RepeatedNumbers.iml" filepath="$PROJECT_DIR$/RepeatedNumbers/RepeatedNumbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ReversedTriangle/ReversedTriangle.iml" filepath="$PROJECT_DIR$/ReversedTriangle/ReversedTriangle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SalaryCalculator/SalaryCalculator.iml" filepath="$PROJECT_DIR$/SalaryCalculator/SalaryCalculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/SortingNumbers/SortingNumbers.iml" filepath="$PROJECT_DIR$/SortingNumbers/SortingNumbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StudentInformationSystem/StudentInformationSystem.iml" filepath="$PROJECT_DIR$/StudentInformationSystem/StudentInformationSystem.iml" />
       <module fileurl="file://$PROJECT_DIR$/TaxCalculator/TaxCalculator.iml" filepath="$PROJECT_DIR$/TaxCalculator/TaxCalculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/Taximeter/Taximeter.iml" filepath="$PROJECT_DIR$/Taximeter/Taximeter.iml" />
       <module fileurl="file://$PROJECT_DIR$/TemperatureEvent/TemperatureEvent.iml" filepath="$PROJECT_DIR$/TemperatureEvent/TemperatureEvent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ZodiacSign/ZodiacSign.iml" filepath="$PROJECT_DIR$/ZodiacSign/ZodiacSign.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/java101.iml" filepath="$PROJECT_DIR$/.idea/java101.iml" />
     </modules>
   </component>
